@@ -1,6 +1,6 @@
 title = "据吉文档"
 # 或者自定义域名
-baseURL = "https://docs.jujidata.com/"
+baseURL = "https://coolguy2020.github.io/jujidata-docs/"
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
