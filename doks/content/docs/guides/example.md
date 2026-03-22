@@ -1,6 +1,6 @@
 ---
-title: "Example Guide"
-description: "Learn how to structure clear, task-focused guides that walk users through real workflows step by step, improving documentation usability and success."
+title: "快速开始"
+description: "请移步快速上手通道，迅速完成一个简单的数据标注项目。"
 summary: ""
 date: 2023-09-07T16:04:48+02:00
 lastmod: 2023-09-07T16:04:48+02:00
