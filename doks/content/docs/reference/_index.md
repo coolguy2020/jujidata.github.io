@@ -1,6 +1,6 @@
 ---
-title: "Reference"
-description: "Find detailed, structured reference pages that explain concepts, configuration options, and behavior so you can quickly look up precise information as you work."
+title: "参考"
+description: "详细的参考文档，涵盖所有功能和API。"
 summary: ""
 date: 2023-09-07T16:12:37+02:00
 lastmod: 2023-09-07T16:12:37+02:00

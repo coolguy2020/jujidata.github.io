@@ -15,6 +15,9 @@ mathEngine = "KaTeX" # "KaTeX" (default) or "MathJax"
 
 # Doks (@thulite/doks-core)
 [doks]
+  # 确保导航树的深度足够显示二级目录
+  sectionNavHierarchyLevels = 2
+  
   # Color mode
   colorMode = "auto" # auto (default), light or dark
   colorModeToggler = true # true (default) or false (this setting is only relevant when colorMode = auto)

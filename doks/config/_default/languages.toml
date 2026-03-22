@@ -1,11 +1,11 @@
-[en]
-  languageName = "English"
-  contentDir = "content/en"
+[zh]
+  languageName = "简体中文"
+  contentDir = "content/zh"
   weight = 10
-  [en.params]
-    languageISO = "EN"
-    languageTag = "en-US"
-    footer = 'Brought to you by <a class="text-muted" href="https://thulite.io/">Thulite</a>'
+  [zh.params]
+    languageISO = "zh"
+    languageTag = "zh-CN"
+    footer = 'Brought to you by <a class="text-muted" href="https://jujidata.com/">据吉网</a>'
     alertText = '<a class="alert-link stretched-link fw-normal" href="/blog/example-post/">Doks version 1.0 just shipped!</a>'
 
 [de]

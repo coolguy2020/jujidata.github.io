@@ -65,26 +65,26 @@
 #   weight = 40
 
 # [[sidebar_docs]]
-#   name = "指南"
+#   name = "Guides"
 #   pageRef = "/docs/guides"
 #   weight = 10
 #
 # [[sidebar_docs]]
-#   name = "参考"
+#   name = "Reference"
 #   pageRef = "/docs/reference"
 #   weight = 20
 #
 # [[sidebar_docs]]
-#   name = "资源"
+#   name = "Resources"
 #   pageRef = "/docs/resources"
 #   weight = 30
 
 [[footer]]
-  name = "隐私政策"
+  name = "Privacy Policy"
   url = "/privacy/"
   weight = 10
 
 # [[footer]]
-#   name = "服务条款"
+#   name = "Terms of Service"
 #   url = "/terms/"
 #   weight = 20
