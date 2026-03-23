@@ -5,7 +5,7 @@
 - [页面未找到](https://coolguy2020.github.io/jujidata-docs/404/): 您正在寻找的页面不存在或已被移动。请检查网址，使用导航浏览各个板块，或返回首页。
 - [隐私政策](https://coolguy2020.github.io/jujidata-docs/privacy/): 了解我们如何收集、使用和保护您的个人数据，您对信息拥有的权利，以及如何联系我们。
 - [博客](https://coolguy2020.github.io/jujidata-docs/blog/): Read product updates, release highlights, and practical tips that explain what’s new, why it matters, and how to get the most value from this project.
-- [文档](https://coolguy2020.github.io/jujidata-docs/docs/): Browse guides and reference documentation that explain how to use this site’s features, configure Doks, and publish clear, user-focused content.
+- [文档](https://coolguy2020.github.io/jujidata-docs/docs/): 据吉文档的主页面，包含所有指南、参考和资源。
 
 ## 博客
 
@@ -15,21 +15,34 @@
 
 ## 文档
 
-> Browse guides and reference documentation that explain how to use this site’s features, configure Doks, and publish clear, user-focused content.
+> 据吉文档的主页面，包含所有指南、参考和资源。
 
-- [指南](https://coolguy2020.github.io/jujidata-docs/docs/guides/): Explore step-by-step guides that walk you through common tasks, from setup to advanced workflows, helping you learn and use this project with confidence.
-- [Reference](https://coolguy2020.github.io/jujidata-docs/docs/reference/): Find detailed, structured reference pages that explain concepts, configuration options, and behavior so you can quickly look up precise information as you work.
-- [Resources](https://coolguy2020.github.io/jujidata-docs/docs/resources/): Discover curated links to official docs, tools, templates, and learning materials that help you deepen your knowledge and get more from this project.
+- [试标空间 (Sandbox)](https://coolguy2020.github.io/jujidata-docs/docs/quick_guides/): 通过小样任务测试供应商交付质量，降低大规模作业风险。
+- [模版中心](https://coolguy2020.github.io/jujidata-docs/docs/templates/): 预置 10 大主流 AI 标注模版，支持高度自定义配置。
+- [指南](https://coolguy2020.github.io/jujidata-docs/docs/guides/): 所有实用指南的集合，帮助你快速上手和深入了解。
+- [参考](https://coolguy2020.github.io/jujidata-docs/docs/reference/): 详细的参考文档，涵盖所有功能和API。
+- [Resources](https://coolguy2020.github.io/jujidata-docs/docs/docs/resources/): Discover curated links to official docs, tools, templates, and learning materials that help you deepen your knowledge and get more from this project.
+
+### 试标空间 (Sandbox)
+
+> 通过小样任务测试供应商交付质量，降低大规模作业风险。
+
+
+### 模版中心
+
+> 预置 10 大主流 AI 标注模版，支持高度自定义配置。
+
+- [2D 矩形框标注 (Bounding Box)](https://coolguy2020.github.io/jujidata-docs/docs/docs/2d-%E7%9F%A9%E5%BD%A2%E6%A1%86%E6%A0%87%E6%B3%A8-bounding-box/): 最通用的物体检测标注模版，支持多标签分类与复杂属性关联。
 
 ### 指南
 
-> Explore step-by-step guides that walk you through common tasks, from setup to advanced workflows, helping you learn and use this project with confidence.
+> 所有实用指南的集合，帮助你快速上手和深入了解。
 
-- [快速开始](https://coolguy2020.github.io/jujidata-docs/docs/guides/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/): 请移步快速上手通道，迅速完成一个简单的数据标注项目。
+- [快速开始](https://coolguy2020.github.io/jujidata-docs/docs/docs/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/): 请移步快速上手通道，迅速完成一个简单的数据标注项目。
 
-### Reference
+### 参考
 
-> Find detailed, structured reference pages that explain concepts, configuration options, and behavior so you can quickly look up precise information as you work.
+> 详细的参考文档，涵盖所有功能和API。
 
-- [Example Reference](https://coolguy2020.github.io/jujidata-docs/docs/reference/example-reference/): Learn how to design concise, comprehensive reference pages that document concepts, options, and behavior clearly so users can quickly find exact answers.
+- [Example Reference](https://coolguy2020.github.io/jujidata-docs/docs/docs/example-reference/): Learn how to design concise, comprehensive reference pages that document concepts, options, and behavior clearly so users can quickly find exact answers.
 
